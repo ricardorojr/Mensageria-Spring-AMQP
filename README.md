@@ -17,12 +17,9 @@ Mensageria: A aplicação consiste em modulos de pedidos sendo produtor enviando
 - Docker
 - RabbitMq
 
-## Implantação em produção
-- Banco de dados: MySql
-# Como executar o projeto
-## Back end
-Pré-requisitos: Java 11
 
+# Como executar o projeto
+Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
