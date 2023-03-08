@@ -5,7 +5,7 @@
 
 # Sobre o projeto
 
-Mensageria: A aplicação consiste em modulos de pedidos sendo produtor enviando mensagem para consumidores que são: Cachback e Notificação, .
+Mensageria: A aplicação consiste em modulos de pedidos sendo produtor enviando mensagem para consumidores que são: Cachback e Notificação.
 
 
 # Tecnologias utilizadas
@@ -24,13 +24,15 @@ Pré-requisitos: Java 11
 ```bash
 # clonar repositório
 git clone https://github.com/ricardorojr/Mensageria-Spring-AMQP.git
+
+##Primeiro passo!
 # entrar na pasta do projeto raiz
 Abrir o terminal executar o comando: docker compose up
- 1 -  porta: Mysql - 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
+ 1º - porta: Mysql - 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
  Ex: phpmyadmin ou dbeaver; conectar no ServerHost = localhost, Port = 3306 
  
  
- 2 - porta: RabbitMQ painel - 15672, abrir no Google Chrome por exemplo, http://localhost:15672/
+ 2º - porta: RabbitMQ painel - 15672, abrir no Google Chrome por exemplo, http://localhost:15672/
 
 # executar o projeto
   1 - Executar run no modulo de Orders-service
