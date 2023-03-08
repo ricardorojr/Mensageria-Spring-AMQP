@@ -25,18 +25,18 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/ricardorojr/Mensageria-Spring-AMQP.git
 
-##Primeiro passo!
-# entrar na pasta do projeto raiz
+#Primeiro passo, entrar na pasta do projeto raiz = Mensageria com Spring AMQP
+
 Abrir o terminal executar o comando: docker compose up
- 1º - porta: Mysql - 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
- Ex: phpmyadmin ou dbeaver; conectar no ServerHost = localhost, Port = 3306 
+1º - porta: Mysql - 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
+Ex: phpmyadmin ou dbeaver; conectar no ServerHost = localhost, Port = 3306 
  
  
- 2º - porta: RabbitMQ painel - 15672, abrir no Google Chrome por exemplo, http://localhost:15672/
+2º - porta: RabbitMQ painel - 15672, abrir no Google Chrome por exemplo, http://localhost:15672/
 
 # executar o projeto
-  1 - Executar run no modulo de Orders-service
-  2 - Executar run nos modulos CachaBack-service e Notificaion-service
+1 - Executar run no modulo de Orders-service
+2 - Executar run nos modulos CachaBack-service e Notificaion-service
 ```
 
 # Autor
