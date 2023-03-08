@@ -23,11 +23,11 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clonehttps://github.com/ricardorojr/Mensageria-Spring-AMQP.git
+git clone https://github.com/ricardorojr/Mensageria-Spring-AMQP.git
 # entrar na pasta do projeto raiz
 Abrir o terminal executar o comando: docker compose up
  1 -  porta: Mysql - 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
- Ex: pgadmin, dbeaver; conectar no ServerHost = localhost, Port = 3306 
+ Ex: phpmyadmin ou dbeaver; conectar no ServerHost = localhost, Port = 3306 
  
  
  2 - porta: RabbitMQ painel - 15672, abrir no Google Chrome por exemplo, http://localhost:15672/
