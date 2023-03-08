@@ -9,7 +9,6 @@ Mensageria: A aplicação consiste em modulos de pedidos sendo produtor enviando
 
 
 # Tecnologias utilizadas
-## Back end
 - Java 11 https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
 - Spring Boot
 - JPA / Hibernate
