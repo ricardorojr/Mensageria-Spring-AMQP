@@ -1,4 +1,4 @@
-# Exemplo de Mensageria AMQP - RabbitMq
+# Exemplo de Mensageria AMQP - RabbitMQ
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ricardorojr/source-springboot-java-8/blob/master/LICENCE) 
 
